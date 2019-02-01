@@ -4,7 +4,7 @@
 
   <groupId>org.springframework</groupId>
   <artifactId>gs-rest-service</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
@@ -53,6 +53,7 @@
           </flowInitContext>
           <noDeploy>true</noDeploy>
           <squash>false</squash>
+          <defaultOriginUrl>https://github.com/mrcc87/gs-rest-service.git</defaultOriginUrl>
         </configuration>
       </plugin>
     </plugins>
