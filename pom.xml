@@ -53,6 +53,7 @@
           </flowInitContext>
           <noDeploy>true</noDeploy>
           <squash>false</squash>
+          <defaultOriginUrl>https://github.com/mrcc87/gs-rest-service.git</defaultOriginUrl>
         </configuration>
       </plugin>
     </plugins>
